@@ -1,0 +1,2 @@
+32F18009D18CDBF6 pub_bob.pem
+dfc1e3e125702b25 pub_alice.pem
